@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SaimaClick", "SaimaClick.vcproj", "{4B68B33D-A4F8-4879-8A82-A60BE32E8F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B68B33D-A4F8-4879-8A82-A60BE32E8F96}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4B68B33D-A4F8-4879-8A82-A60BE32E8F96}.Debug|Win32.Build.0 = Debug|Win32
+		{4B68B33D-A4F8-4879-8A82-A60BE32E8F96}.Release|Win32.ActiveCfg = Release|Win32
+		{4B68B33D-A4F8-4879-8A82-A60BE32E8F96}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
